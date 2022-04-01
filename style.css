@@ -1,0 +1,25 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.list-block{
+    background-color: rgb(28, 107, 209);
+    width: 10%;
+    text-align: left;
+    margin-left: 600px;
+    font-size: larger;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 4%;
+    color: white;
+    font-style: italic;
+    
+}
+
+.input-block {
+    margin-left: 40%;
+    padding-top: 100px;
+}
+
+
+
